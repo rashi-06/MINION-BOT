@@ -1,0 +1,16 @@
+{
+  "name": "minion-bot",
+  "version": "1.0.0",
+  "description": "This is a Discord Bot built using discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashi Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "fetch": "^1.1.0"
+  }
+}
