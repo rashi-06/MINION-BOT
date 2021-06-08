@@ -4,6 +4,7 @@
   "description": "This is a Discord Bot built using discord.js",
   "main": "index.js",
   "scripts": {
+    "postinstall": "npm run build",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
